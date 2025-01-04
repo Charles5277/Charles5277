@@ -3,51 +3,46 @@
 
 # 💻 Tech Stack:
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,python,cpp)](https://skills-icons.vercel.app/api/)
 
 ## Frontend Development
 <div>
-  <img src="https://www.svgrepo.com/show/354528/vue.svg" alt="vue.js" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=nuxtjs,tailwind" alt="nuxt.js, tailwind" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=vuejs,nuxtjs,tailwind" alt="vue.js, nuxt.js, tailwind, vitepress, quasar" />
   <img src="https://raw.githubusercontent.com/vuejs/vitepress/67b7d5d87814ecf55cf39536de74272b1b76ff6d/docs/public/vitepress-logo-mini.svg" alt="vue.js" width="48" height="48">
   <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" alt="quasar" width="48" height="48">
-  <img src="https://pbs.twimg.com/profile_images/1681293908427546624/bm2kMLwo_400x400.jpg" alt="vuestic" width="48" height="48">
 </div>
 
 ## Devops
 <div>
-  <img src="https://skillicons.dev/icons?i=githubactions,docker,azure,aws,gcp" alt="github-actions, docker, azure, aws, gcp">
+  <img src="https://skills-icons.vercel.app/api/icons?i=githubactions,docker,azure,aws,gcp" alt="github-actions, docker, azure, aws, gcp">
   <img src="https://github.com/zeabur/zeabur/blob/main/docs/public/favicon.svg" alt="zeabur" width="48" height="48">
 </div>
 
 ## BaaS
 <div>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" alt="firebase, supabase">
+  <img src="https://skills-icons.vercel.app/api/icons?i=firebase,supabase" alt="firebase, supabase">
 </div>
 
 ## Testing
 <div>
-  <img src="https://skillicons.dev/icons?i=vitest,jest" alt="vitest, jest">
-  <img src="https://github.com/microsoft/playwright/blob/main/packages/web/src/assets/playwright-logo.svg" alt="playwright" width="48" height="48">
+  <img src="https://skills-icons.vercel.app/api/icons?i=vitest,jest, playwright" alt="vitest, jest, playwright">
 </div>
 
 ## Design
 <div>
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma">
-  <img src="https://github.com/storybookjs/storybook/blob/next/code/core/assets/browser/favicon.svg" alt="storybook" width="48" height="48">
+  <img src="https://skills-icons.vercel.app/api/icons?i=figma, storybook" alt="figma, storybook">
 </div>
 
 ## Diagram
 <div>
-  <img src="https://github.com/mermaid-js/mermaid/blob/develop/docs/public/favicon.svg" alt="mermaid" width="48" height="48">
-  <img src="https://play-lh.googleusercontent.com/L2JzvwweuuOTXr0GC9iZjX1OfFrX4Uf4XAHW1NWQi52piv6D4P3AZJ_UPNwIG2JfAWM" alt="gitmind" width="48" height="48">
+  <img src="https://skills-icons.vercel.app/api/icons?i=mermaid, gitmind" alt="mermaid, gitmind">
 </div>
 
 ## Project Management
-<img src="https://skillicons.dev/icons?i=notion,sentry" alt="notion, sentry">
+<img src="https://skills-icons.vercel.app/api/icons?i=notion,sentry" alt="notion, sentry">
 
 ## Prefer Operating System
-<img src="https://skillicons.dev/icons?i=linux,windows" alt="linux, windows">
+<img src="https://skills-icons.vercel.app/api/icons?i=linux,windows" alt="linux, windows">
 
 # 📊 GitHub Stats:
   <div>
