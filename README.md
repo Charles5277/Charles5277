@@ -12,10 +12,15 @@
   <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" alt="quasar" width="48" height="48">
 </div>
 
-## Devops
+## DevOps
 <div>
-  <img src="https://skills-icons.vercel.app/api/icons?i=githubactions,docker,azure,aws,gcp" alt="github-actions, docker, azure, aws, gcp">
+  <img src="https://skills-icons.vercel.app/api/icons?i=github,docker,sentry" alt="github, docker, sentry">
   <img src="https://github.com/zeabur/zeabur/blob/main/docs/public/favicon.svg" alt="zeabur" width="48" height="48">
+</div>
+
+## Cloud Platform
+<div>
+  <img src="https://skills-icons.vercel.app/api/icons?i=azure,aws,gcloud" alt="azure, aws, gcloud">
 </div>
 
 ## BaaS
@@ -39,10 +44,10 @@
 </div>
 
 ## Project Management
-<img src="https://skills-icons.vercel.app/api/icons?i=notion,sentry" alt="notion, sentry">
+<img src="https://skills-icons.vercel.app/api/icons?i=notion" alt="notion">
 
-## Prefer Operating System
-<img src="https://skills-icons.vercel.app/api/icons?i=linux,windows" alt="linux, windows">
+## Operating System
+<img src="https://skills-icons.vercel.app/api/icons?i=linux,windows" alt="linux, windows, macos">
 
 # 📊 GitHub Stats:
   <div>
