@@ -25,17 +25,17 @@
 
 ## Testing
 <div>
-  <img src="https://skills-icons.vercel.app/api/icons?i=vitest,jest, playwright" alt="vitest, jest, playwright">
+  <img src="https://skills-icons.vercel.app/api/icons?i=vitest,jest,playwright" alt="vitest, jest, playwright">
 </div>
 
 ## Design
 <div>
-  <img src="https://skills-icons.vercel.app/api/icons?i=figma, storybook" alt="figma, storybook">
+  <img src="https://skills-icons.vercel.app/api/icons?i=figma,storybook" alt="figma, storybook">
 </div>
 
 ## Diagram
 <div>
-  <img src="https://skills-icons.vercel.app/api/icons?i=mermaid, gitmind" alt="mermaid, gitmind">
+  <img src="https://skills-icons.vercel.app/api/icons?i=mermaid,gitmind" alt="mermaid, gitmind">
 </div>
 
 ## Project Management
