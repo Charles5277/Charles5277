@@ -7,15 +7,12 @@
 
 ## Frontend Development
 <div>
-  <img src="https://skills-icons.vercel.app/api/icons?i=vuejs,nuxtjs,tailwind" alt="vue.js, nuxt.js, tailwind, vitepress, quasar" />
-  <img src="https://raw.githubusercontent.com/vuejs/vitepress/67b7d5d87814ecf55cf39536de74272b1b76ff6d/docs/public/vitepress-logo-mini.svg" alt="vue.js" width="48" height="48">
-  <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" alt="quasar" width="48" height="48">
+  <img src="https://skills-icons.vercel.app/api/icons?i=vuejs,nuxtjs,tailwind,vitepress,quasar,primevue" alt="vue.js, nuxt.js, tailwind, vitepress, quasar, primevue" />
 </div>
 
 ## DevOps
 <div>
-  <img src="https://skills-icons.vercel.app/api/icons?i=github,docker,sentry" alt="github, docker, sentry">
-  <img src="https://github.com/zeabur/zeabur/blob/main/docs/public/favicon.svg" alt="zeabur" width="48" height="48">
+  <img src="https://skills-icons.vercel.app/api/icons?i=github,docker,sentry,zeabur,proxmox" alt="github, docker, sentry, zeabur, proxmox">
 </div>
 
 ## Cloud Platform
@@ -47,7 +44,7 @@
 <img src="https://skills-icons.vercel.app/api/icons?i=notion" alt="notion">
 
 ## Operating System
-<img src="https://skills-icons.vercel.app/api/icons?i=linux,windows" alt="linux, windows, macos">
+<img src="https://skills-icons.vercel.app/api/icons?i=linux,windows,macos" alt="linux, windows, macos">
 
 # 📊 GitHub Stats
   <div>
