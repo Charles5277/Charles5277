@@ -48,8 +48,6 @@
 
 # 📊 GitHub Stats
   <div>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Charles5277&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true">
-    &nbsp;
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles5277&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact">  
   </div>
 
