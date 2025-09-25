@@ -55,8 +55,4 @@
 
   <br>
   <img height="200px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Charles5277&theme=midnight-purple&hide_border=false"><br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Charles5277&icon=2&color=11)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
