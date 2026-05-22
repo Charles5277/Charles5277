@@ -6,14 +6,14 @@ Hi, I'm Charles — a software developer from Taiwan running [YuDefine](https://
 
 - 🏢 經營 **[YuDefine 域定資訊工作室](https://github.com/YuDefine)** — 中小企業客製化數位轉型專案
 - ✍️ 在 **[blog.charlestw.dev](https://blog.charlestw.dev)** 記錄 Nuxt / Vue / AI 協作開發實踐
-- 🤖 **Claude Code** 重度使用者 — 自建跨專案共用配置中央倉 [`clade`](https://github.com/YuDefine/clade)，含自訂 commands / agents / hooks / skills
+- 🤖 **Claude Code** 重度使用者 — 自建跨專案共用 AI 配置中央倉模板 [`clade-template`](https://github.com/YuDefine/clade-template)，含自訂 commands / agents / hooks / skills
 - 📐 所有專案採 **Spec-Driven Development (SDD) + TDD** 工作流
 
 ---
 
 # 🧠 How I Build
 
-- **AI 協作為主軸** — 與 Claude Code 全流程協作，從 spec → tests → impl → review；自建 [clade](https://github.com/YuDefine/clade) 中央倉散播配置到 N 個 consumer 專案
+- **AI 協作為主軸** — 與 Claude Code 全流程協作，從 spec → tests → impl → review；自建中央倉模板 [clade-template](https://github.com/YuDefine/clade-template) 散播配置到 N 個 consumer 專案
 - **Spec-Driven Development** — 先寫規格、可驗證的 acceptance criteria，再下手寫程式
 - **Test-Driven Development** — Vitest unit + Playwright E2E
 - **文件至上** — 每個 repo 都有詳盡 README、ADR 與 onboarding guide
@@ -69,8 +69,7 @@ Hi, I'm Charles — a software developer from Taiwan running [YuDefine](https://
 | --- | --- | --- |
 | 🌱 [**nuxt-supabase-starter**](https://github.com/YuDefine/nuxt-supabase-starter) | Nuxt 4 · Supabase · Claude Code | Nuxt + Supabase 快速開發範本，含 AI 輔助工作流（SDD + TDD） |
 | 🔌 [**web-nfc-bridge**](https://github.com/YuDefine/web-nfc-bridge) | Go · Nuxt 4 · PC/SC | 瀏覽器 NFC 讀寫橋接器，跨平台安裝包 (.pkg/.msi/.deb) |
-| 🧠 [**clade**](https://github.com/YuDefine/clade) | Claude Code | 跨專案共用 AI 配置中央倉（rules / plugins / hooks / skills） |
-| 🏗️ [**clade-template**](https://github.com/YuDefine/clade-template) | Template | 自建多專案 AI 配置中央倉模板，含投影層治理與 sanitization layer |
+| 🧠 [**clade-template**](https://github.com/YuDefine/clade-template) | Claude Code · Template | 自建多專案 AI 配置中央倉模板（rules / plugins / hooks / skills），含投影層治理與 sanitization layer |
 | 🛡️ [**mac-mem-guard**](https://github.com/YuDefine/mac-mem-guard) | Shell | Mac Mini M4 16GB 全局記憶體保護套件，針對 Claude Code SSH 開發環境 |
 | 🤖 [**nuxt-edge-agentic-rag**](https://github.com/YuDefine/nuxt-edge-agentic-rag) | Nuxt · Cloudflare | Nuxt edge-native agentic RAG |
 | 🎬 [**swc-movie-box-office-analysis**](https://github.com/YuDefine/swc-movie-box-office-analysis) | Nuxt 4 · Python | 陽光女子合唱團台灣票房分析儀表板 |
