@@ -43,18 +43,19 @@ Hi, I'm Charles — a software developer from Taiwan running [YuDefine](https://
 ### 🧰 Tooling
 > **VoidZero ecosystem** · 套件管理 · CI/CD
 
-<img src="https://skills-icons.vercel.app/api/icons?i=vite,vitest,pnpm,bun,docker,githubactions" alt="vite, vitest, pnpm, bun, docker, github actions" />
-
-![Rolldown](https://img.shields.io/badge/Rolldown-FF3E00?style=flat-square&logo=rolldown&logoColor=white)
-![OXC](https://img.shields.io/badge/OXC-A78BFA?style=flat-square&logo=rust&logoColor=white)
-![OXLint](https://img.shields.io/badge/OXLint-A78BFA?style=flat-square&logo=rust&logoColor=white)
-![OXFmt](https://img.shields.io/badge/OXFmt-A78BFA?style=flat-square&logo=rust&logoColor=white)
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidzero-dev/community-design-resources/main/brand-assets/vite/vite-icon-color-dark.svg"><img src="https://raw.githubusercontent.com/voidzero-dev/community-design-resources/main/brand-assets/vite/vite-icon-color-light.svg" alt="Vite" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidzero-dev/community-design-resources/main/brand-assets/vitest/vitest-icon-color-dark.svg"><img src="https://raw.githubusercontent.com/voidzero-dev/community-design-resources/main/brand-assets/vitest/vitest-icon-color-light.svg" alt="Vitest" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidzero-dev/community-design-resources/main/brand-assets/rolldown/rolldown-icon-color-dark.svg"><img src="https://raw.githubusercontent.com/voidzero-dev/community-design-resources/main/brand-assets/rolldown/rolldown-icon-color-light.svg" alt="Rolldown" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidzero-dev/community-design-resources/main/brand-assets/oxc/oxc-icon-color-dark.svg"><img src="https://raw.githubusercontent.com/voidzero-dev/community-design-resources/main/brand-assets/oxc/oxc-icon-color-light.svg" alt="OXC (oxlint, oxfmt)" height="48"></picture>
+  <img src="https://skills-icons.vercel.app/api/icons?i=pnpm,bun,docker,githubactions" alt="pnpm, bun, docker, github actions" />
+</p>
 
 ### 🧪 Testing
 <img src="https://skills-icons.vercel.app/api/icons?i=vitest,playwright" alt="vitest, playwright" />
 
 ### 🖥️ Infrastructure
-<img src="https://skills-icons.vercel.app/api/icons?i=proxmox,docker,linux" alt="proxmox, docker, linux" />
+<img src="https://skills-icons.vercel.app/api/icons?i=proxmox,docker" alt="proxmox, docker" />
 
 ### 💾 OS
 <img src="https://skills-icons.vercel.app/api/icons?i=windows,macos,linux" alt="windows, macos, linux" />
