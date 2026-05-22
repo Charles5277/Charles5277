@@ -47,10 +47,5 @@
 <img src="https://skills-icons.vercel.app/api/icons?i=linux,windows,macos" alt="linux, windows, macos">
 
 # 📊 GitHub Stats
-  <div>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles5277&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact">  
-  </div>
-
-  <br>
   <img height="200px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Charles5277&theme=midnight-purple&hide_border=false"><br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
